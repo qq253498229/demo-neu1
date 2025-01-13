@@ -1,7 +1,7 @@
 {
   "applicationId": "cn.codeforfun.demo-neu1",
   "version": "0.0.2",
-  "resourcesURL": "http://example.com/updater_test/update_res.neu",
+  "resourcesURL": "https://github.com/qq253498229/demo-neu1/releases/download/0.0.1/resources.neu",
   "data": {
     "releaseNotes": "This is a new version with bug fixes and improvements."
   }
