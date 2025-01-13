@@ -1,6 +1,6 @@
 {
   "applicationId": "cn.codeforfun.demo-neu1",
   "version": "1.0.0",
-  "resourcesURL": "这里是resources.neu文件的下载地址",
+  "resourcesURL": "https://github.com/qq253498229/demo-neu1/releases/download/0.0.1/resources.neu",
   "data": {}
 }
