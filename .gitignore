@@ -12,3 +12,5 @@ neutralino.js
 .storage
 *.log
 .tmp
+/package-lock.json
+/node_modules
